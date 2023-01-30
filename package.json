@@ -23,5 +23,5 @@
     "url": "https://github.com/Darwin073100/FilesToServer/issues"
   },
   "homepage": "https://github.com/Darwin073100/FilesToServer#readme",
-  "description": ""
+  "description": "Api para subir imagenes al servidor con expres.js"
 }
